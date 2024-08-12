@@ -12,13 +12,11 @@ Custom colors work only for unprotected servers!
 
 # Custom color
 The file 'materials-new.lua' contains 4 arrays:
-
-line 23) MDG_materials[MDG_SELF_IDS.HUD] = {&lt;values&gt;}
-
-line 29) MDG_materials[MDG_SELF_IDS.LMDI] = {&lt;values&gt;}
-
-line 81) materials["RWR_STROKE"] = {&lt;values&gt;}
-
-line 84) materials["HMD_SYMBOLOGY_MATERIAL"] = {&lt;values&gt;}
+<ol type="1">
+ <li>line 23) MDG_materials[MDG_SELF_IDS.HUD] = {&lt;values&gt;}</li>
+ <li>line 29) MDG_materials[MDG_SELF_IDS.LMDI] = {&lt;values&gt;}</li>
+ <li>line 81) materials["RWR_STROKE"] = {&lt;values&gt;}</li>
+ <li>line 84) materials["HMD_SYMBOLOGY_MATERIAL"] = {&lt;values&gt;}</li>
+</ol>
 
 Change their &lt;values&gt; in RGB-ish manner to set a new color.
