@@ -1,7 +1,7 @@
 From AlbaMelody with love <3
 
 # Installation
-1. Copy '/DCS World' into the game directory '../Eagle Dynamics/';
+1. Copy '/DCS World' folder into the game directory '../Eagle Dynamics/';
 2. Enjoy!
 
 # Usage
