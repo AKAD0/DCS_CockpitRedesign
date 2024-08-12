@@ -1,12 +1,10 @@
-<head>
-    <style>
-        ul.no-bullets {
-            list-style-type: none;
-            padding: 0;
-            margin: 0;
-        }
-    </style>
-</head>
+<style>
+    ul.no-bullets {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+</style>
 
 From AlbaMelody with love <3
 
