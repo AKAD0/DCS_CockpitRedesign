@@ -6,8 +6,8 @@ From AlbaMelody with love <3
 
 # Usage
 Custom colors work only for unprotected servers!
-1. Run 'hud.bat' as administrator to change the HUD color (You won't be able to spawn on protected server!);
-2. Run 'hud-reset' as administrator to reset game files (You'll get back the access to protected server);
+1. Run 'hud.bat' as administrator to change the HUD color (You won't be able to spawn on protected servers!);
+2. Run 'hud-reset' as administrator to reset game files (You'll get back the access to protected servers);
 3. Restart the game to apply new settings.
 
 # Custom color
