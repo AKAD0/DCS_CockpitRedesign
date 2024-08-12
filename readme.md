@@ -12,7 +12,7 @@ Custom colors work only for unprotected servers!
 
 # Custom color
 The file 'materials-new.lua' contains 4 arrays:
-<ul style="list-style-type:none;">
+<ul class="no-bullets">
  <li>line 23) MDG_materials[MDG_SELF_IDS.HUD] = {&lt;values&gt;}</li>
  <li>line 29) MDG_materials[MDG_SELF_IDS.LMDI] = {&lt;values&gt;}</li>
  <li>line 81) materials["RWR_STROKE"] = {&lt;values&gt;}</li>
